@@ -1,0 +1,10 @@
+﻿[2024-05-10 19:53:32.945] [info   ] [burger     ] [ 6864: 7756] [000000:   0] Sending of Burger record failed.
+[2024-05-10 19:53:32.945] [error  ] [burger     ] [ 6864: 7756] [000000:   0] Server returned error code: 403. It is probably caused by a bug in envelope encoding.
+[2024-05-10 19:53:43.633] [info   ] [burger     ] [ 9908:20216] [000000:   0] Sending of Burger record failed.
+[2024-05-10 19:53:43.634] [error  ] [burger     ] [ 9908:20216] [000000:   0] Server returned error code: 403. It is probably caused by a bug in envelope encoding.
+[2024-05-10 19:54:18.207] [info   ] [burger     ] [19952:15384] [000000:   0] Sending of Burger record failed.
+[2024-05-10 19:54:18.207] [error  ] [burger     ] [19952:15384] [000000:   0] Server returned error code: 403. It is probably caused by a bug in envelope encoding.
+[2024-05-10 19:56:28.543] [info   ] [burger     ] [ 1428: 3992] [000000:   0] Sending of Burger record failed.
+[2024-05-10 19:56:28.543] [error  ] [burger     ] [ 1428: 3992] [000000:   0] Server returned error code: 403. It is probably caused by a bug in envelope encoding.
+[2024-05-18 20:40:07.157] [info   ] [burger     ] [15000: 3672] [000000:   0] Sending of Burger record failed.
+[2024-05-18 20:40:07.157] [error  ] [burger     ] [15000: 3672] [000000:   0] Server returned error code: 403. It is probably caused by a bug in envelope encoding.

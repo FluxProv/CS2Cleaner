@@ -1,0 +1,61 @@
+﻿[2024-05-12 19:55:01.284] [notice ] [bug_report ] [ 3684: 1484] [60E748: 319] BugReport started.
+[2024-05-12 19:55:01.285] [notice ] [bug_report ] [ 3684: 1484] [60E748:  88]  - valid package type found in [send]: 0
+[2024-05-12 19:55:01.286] [notice ] [bug_report ] [ 3684: 1484] [60E748:  88]  - valid package type found in [send]: 2
+[2024-05-12 19:55:01.286] [notice ] [bug_report ] [ 3684: 1484] [60E748: 103]  - setting [product] to 90
+[2024-05-12 19:55:01.286] [notice ] [bug_report ] [ 3684: 1484] [60E748: 112]  - setting [path] to C:\Program Files\CCleaner\LOG
+[2024-05-12 19:55:01.286] [notice ] [bug_report ] [ 3684: 1484] [60E748: 121]  - setting [programpath] to C:\Program Files\CCleaner
+[2024-05-12 19:55:01.286] [notice ] [bug_report ] [ 3684: 1484] [60E748: 145]  - setting [version] to 6.21.10918
+[2024-05-12 19:55:01.287] [notice ] [bug_report ] [ 3684: 1484] [60E748: 149]  - setting [guid] to 1a1b6782-54cc-4a6b-8212-2a1c99bbe39a
+[2024-05-12 19:55:01.287] [notice ] [bug_report ] [ 3684: 1484] [60E748: 181]  - setting [silent]
+[2024-05-12 19:55:01.293] [warning] [crashguard ] [ 3684: 1484] [4AF4BF: 262] Process dumper doesn't exist in path 'C:\Program Files\CCleaner'.
+[2024-05-12 19:55:01.296] [notice ] [crashguard ] [ 3684: 1652] [FF32C0: 180] Process monitoring installed.
+[2024-05-12 19:55:01.393] [notice ] [bug_report ] [ 3684: 1484] [60E748: 396] Processing package type (0)
+[2024-05-12 19:55:01.394] [notice ] [bug_report ] [ 3684: 1484] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2024-05-12 19:55:01.394] [notice ] [bug_report ] [ 3684: 1484] [60E748: 396] Processing package type (2)
+[2024-05-12 19:55:01.398] [notice ] [bug_report ] [ 3684: 1484] [451BD4:  52] {PackageType_2::LogFilesWithReport-90-6.21.10918} About to submit payload of type (2.102)
+[2024-05-12 19:55:01.398] [warning] [sb         ] [ 3684: 1484] [AF8487:  22] {PackageType_2::LogFilesWithReport-90-6.21.10918} Couldn't get installation info.
+[2024-05-12 19:55:01.398] [warning] [sb         ] [ 3684: 1484] [AF8487:  34] {PackageType_2::LogFilesWithReport-90-6.21.10918} Couldn't get setting 'avdef://config/Common/VersionType', failed with error code 3
+[2024-05-12 19:55:01.398] [warning] [sb         ] [ 3684: 1484] [AF8487:  89] {PackageType_2::LogFilesWithReport-90-6.21.10918} InitAvastIdentity was not able to get running program version
+[2024-05-12 19:55:01.771] [notice ] [bug_report ] [ 3684: 1484] [451BD4:  67] {PackageType_2::LogFilesWithReport-90-6.21.10918} * Metadata submitted and we don't want this payload. Marking as reported.
+[2024-05-12 19:55:01.771] [notice ] [bug_report ] [ 3684: 1484] [8BAFB8: 174] {PackageType_2::LogFilesWithReport-90-6.21.10918} Payload was NOT submitted
+[2024-05-12 19:55:01.772] [notice ] [bug_report ] [ 3684: 1484] [60E748: 459] Package type '0' reports result: 0
+[2024-05-12 19:55:01.772] [notice ] [bug_report ] [ 3684: 1484] [60E748: 459] Package type '2' reports result: 2
+[2024-05-12 19:55:01.772] [notice ] [bug_report ] [ 3684: 1484] [60E748: 462] BugReport is finished with: [2].
+[2024-05-13 19:55:01.523] [notice ] [bug_report ] [ 7116:15692] [60E748: 319] BugReport started.
+[2024-05-13 19:55:01.523] [notice ] [bug_report ] [ 7116:15692] [60E748:  88]  - valid package type found in [send]: 0
+[2024-05-13 19:55:01.523] [notice ] [bug_report ] [ 7116:15692] [60E748:  88]  - valid package type found in [send]: 2
+[2024-05-13 19:55:01.523] [notice ] [bug_report ] [ 7116:15692] [60E748: 103]  - setting [product] to 90
+[2024-05-13 19:55:01.523] [notice ] [bug_report ] [ 7116:15692] [60E748: 112]  - setting [path] to C:\Program Files\CCleaner\LOG
+[2024-05-13 19:55:01.523] [notice ] [bug_report ] [ 7116:15692] [60E748: 121]  - setting [programpath] to C:\Program Files\CCleaner
+[2024-05-13 19:55:01.523] [notice ] [bug_report ] [ 7116:15692] [60E748: 145]  - setting [version] to 6.21.10918
+[2024-05-13 19:55:01.524] [notice ] [bug_report ] [ 7116:15692] [60E748: 149]  - setting [guid] to 1a1b6782-54cc-4a6b-8212-2a1c99bbe39a
+[2024-05-13 19:55:01.524] [notice ] [bug_report ] [ 7116:15692] [60E748: 181]  - setting [silent]
+[2024-05-13 19:55:01.525] [warning] [crashguard ] [ 7116:15692] [4AF4BF: 262] Process dumper doesn't exist in path 'C:\Program Files\CCleaner'.
+[2024-05-13 19:55:01.526] [notice ] [crashguard ] [ 7116: 1516] [FF32C0: 180] Process monitoring installed.
+[2024-05-13 19:55:01.633] [notice ] [bug_report ] [ 7116:15692] [60E748: 396] Processing package type (0)
+[2024-05-13 19:55:01.634] [notice ] [bug_report ] [ 7116:15692] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2024-05-13 19:55:01.634] [notice ] [bug_report ] [ 7116:15692] [60E748: 396] Processing package type (2)
+[2024-05-13 19:55:01.634] [notice ] [bug_report ] [ 7116:15692] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.21.10918} Regular log send interval not reached yet, skipping...
+[2024-05-13 19:55:01.634] [notice ] [bug_report ] [ 7116:15692] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.21.10918} Payload was skipped due to readiness status: 2
+[2024-05-13 19:55:01.634] [notice ] [bug_report ] [ 7116:15692] [60E748: 459] Package type '0' reports result: 0
+[2024-05-13 19:55:01.634] [notice ] [bug_report ] [ 7116:15692] [60E748: 459] Package type '2' reports result: 0
+[2024-05-13 19:55:01.634] [notice ] [bug_report ] [ 7116:15692] [60E748: 462] BugReport is finished with: [0].
+[2024-05-17 19:55:02.020] [notice ] [bug_report ] [ 3140:15708] [60E748: 319] BugReport started.
+[2024-05-17 19:55:02.021] [notice ] [bug_report ] [ 3140:15708] [60E748:  88]  - valid package type found in [send]: 0
+[2024-05-17 19:55:02.021] [notice ] [bug_report ] [ 3140:15708] [60E748:  88]  - valid package type found in [send]: 2
+[2024-05-17 19:55:02.021] [notice ] [bug_report ] [ 3140:15708] [60E748: 103]  - setting [product] to 90
+[2024-05-17 19:55:02.021] [notice ] [bug_report ] [ 3140:15708] [60E748: 112]  - setting [path] to C:\Program Files\CCleaner\LOG
+[2024-05-17 19:55:02.021] [notice ] [bug_report ] [ 3140:15708] [60E748: 121]  - setting [programpath] to C:\Program Files\CCleaner
+[2024-05-17 19:55:02.021] [notice ] [bug_report ] [ 3140:15708] [60E748: 145]  - setting [version] to 6.21.10918
+[2024-05-17 19:55:02.022] [notice ] [bug_report ] [ 3140:15708] [60E748: 149]  - setting [guid] to 1a1b6782-54cc-4a6b-8212-2a1c99bbe39a
+[2024-05-17 19:55:02.022] [notice ] [bug_report ] [ 3140:15708] [60E748: 181]  - setting [silent]
+[2024-05-17 19:55:02.025] [warning] [crashguard ] [ 3140:15708] [4AF4BF: 262] Process dumper doesn't exist in path 'C:\Program Files\CCleaner'.
+[2024-05-17 19:55:02.029] [notice ] [crashguard ] [ 3140:12716] [FF32C0: 180] Process monitoring installed.
+[2024-05-17 19:55:02.073] [notice ] [bug_report ] [ 3140:15708] [60E748: 396] Processing package type (0)
+[2024-05-17 19:55:02.074] [notice ] [bug_report ] [ 3140:15708] [8BAFB8: 104] {PackageType_0} Done submitting dumps with result: 1
+[2024-05-17 19:55:02.074] [notice ] [bug_report ] [ 3140:15708] [60E748: 396] Processing package type (2)
+[2024-05-17 19:55:02.074] [notice ] [bug_report ] [ 3140:15708] [6B2A78: 238] {PackageType_2::LogFilesWithReport-90-6.21.10918} Regular log send interval not reached yet, skipping...
+[2024-05-17 19:55:02.074] [notice ] [bug_report ] [ 3140:15708] [8BAFB8: 180] {PackageType_2::LogFilesWithReport-90-6.21.10918} Payload was skipped due to readiness status: 2
+[2024-05-17 19:55:02.074] [notice ] [bug_report ] [ 3140:15708] [60E748: 459] Package type '0' reports result: 0
+[2024-05-17 19:55:02.074] [notice ] [bug_report ] [ 3140:15708] [60E748: 459] Package type '2' reports result: 0
+[2024-05-17 19:55:02.074] [notice ] [bug_report ] [ 3140:15708] [60E748: 462] BugReport is finished with: [0].

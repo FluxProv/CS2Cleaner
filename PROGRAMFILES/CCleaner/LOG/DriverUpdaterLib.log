@@ -1,0 +1,130 @@
+﻿[2024-05-10 19:53:22.101] [info   ] [settings   ] [ 6864:10796] [000000:   0] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2024-05-10 19:53:22.103] [info   ] [ini_access ] [ 6864:10796] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def started
+[2024-05-10 19:53:22.104] [info   ] [ini_access ] [ 6864:10796] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini started
+[2024-05-10 19:53:22.110] [info   ] [ini_access ] [ 6864:10796] [000000:   0] watch task termination for C:\Program Files\CCleaner\usercfg.ini requested
+[2024-05-10 19:53:22.110] [info   ] [ini_access ] [ 6864:10796] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini gracefully terminated
+[2024-05-10 19:53:22.111] [info   ] [ini_access ] [ 6864:10796] [000000:   0] watch task for C:\Program Files\CCleaner\Data\settings.ini started
+[2024-05-10 19:53:22.113] [info   ] [ini_access ] [ 6864:10796] [000000:   0] watch task for C:\Program Files\CCleaner\Data\usercfg.ini started
+[2024-05-10 19:53:22.117] [info   ] [lic_setting] [ 6864:10796] [000000:   0] ~pfQzep/eJJTI5aFsrQ5d07imDDOf1CSByOyzPr8fRsqz7l9Qv+9wx8LnqTm6CEDLs7EcZ86VKYTN7qciuxkBxrK5UzO/9Aa3m6ulP78YAca+uBpykt44ycLkqw==
+[2024-05-10 19:53:22.126] [warning] [Burger     ] [ 6864:10796] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [173] asw::standalone_svc::BurgerReporter::RegisterRPC: Could not get RPC.
+[2024-05-10 19:53:22.126] [error  ] [Burger     ] [ 6864:10796] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [253] asw::standalone_svc::BurgerReporter::BurgerSwitch: Could not read property BURGER_SETTINGS_PANCAKE_HOSTNAME (0x00000003)
+[2024-05-10 19:53:22.126] [warning] [Burger     ] [ 6864:10796] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [256] asw::standalone_svc::BurgerReporter::BurgerSwitch: Analytics (Burger.v4) disabled (hostname: )
+[2024-05-10 19:53:22.126] [error  ] [Burger     ] [ 6864:10796] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [253] asw::standalone_svc::BurgerReporter::BurgerSwitch: Could not read property BURGER_SETTINGS_PANCAKE_HOSTNAME (0x00000003)
+[2024-05-10 19:53:22.126] [warning] [Burger     ] [ 6864:10796] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [256] asw::standalone_svc::BurgerReporter::BurgerSwitch: Analytics (Burger.v4) disabled (hostname: )
+[2024-05-10 19:53:22.126] [warning] [Burger     ] [ 6864:10796] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [280] asw::standalone_svc::BurgerReporter::GASwitch: Property GDPR_THIRD_PARTY_ANALYTICS_ENABLED not found, set default value
+[2024-05-10 19:53:22.127] [warning] [Burger     ] [ 6864:10796] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [173] asw::standalone_svc::BurgerReporter::RegisterRPC: Could not get RPC.
+[2024-05-10 19:53:22.145] [warning] [ini_access ] [ 6864:16824] [000000:   0] C:\Program Files\CCleaner\Setup overlapped IO failed, error: 995.
+[2024-05-10 19:53:32.886] [info   ] [ini_access ] [ 6864: 7756] [000000:   0] watch task for C:\Program Files\CCleaner\Data\burger_client.ini started
+[2024-05-10 19:53:32.958] [info   ] [ini_access ] [ 6864:10432] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\settings.ini requested
+[2024-05-10 19:53:32.958] [info   ] [ini_access ] [ 6864:10432] [000000:   0] watch task for C:\Program Files\CCleaner\Data\settings.ini gracefully terminated
+[2024-05-10 19:53:32.958] [info   ] [ini_access ] [ 6864:10432] [000000:   0] watch task termination for C:\Program Files\CCleaner\Setup\config.def requested
+[2024-05-10 19:53:32.958] [info   ] [ini_access ] [ 6864:10432] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def gracefully terminated
+[2024-05-10 19:53:32.958] [info   ] [ini_access ] [ 6864:10432] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\usercfg.ini requested
+[2024-05-10 19:53:32.958] [info   ] [ini_access ] [ 6864:10432] [000000:   0] watch task for C:\Program Files\CCleaner\Data\usercfg.ini gracefully terminated
+[2024-05-10 19:53:32.958] [info   ] [ini_access ] [ 6864:10432] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\burger_client.ini requested
+[2024-05-10 19:53:32.958] [info   ] [ini_access ] [ 6864:10432] [000000:   0] watch task for C:\Program Files\CCleaner\Data\burger_client.ini gracefully terminated
+[2024-05-10 19:53:33.067] [info   ] [log_module ] [ 6864:10432] [000000:   0] LogModule is going to be destroyed.
+[2024-05-10 19:53:33.067] [info   ] [log_module ] [ 6864:10432] [000000:   0] =====================================================================================================================
+[2024-05-10 19:53:36.949] [info   ] [settings   ] [ 9908:10096] [000000:   0] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2024-05-10 19:53:36.951] [info   ] [ini_access ] [ 9908:10096] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def started
+[2024-05-10 19:53:36.951] [info   ] [ini_access ] [ 9908:10096] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini started
+[2024-05-10 19:53:36.953] [info   ] [ini_access ] [ 9908:10096] [000000:   0] watch task termination for C:\Program Files\CCleaner\usercfg.ini requested
+[2024-05-10 19:53:36.953] [info   ] [ini_access ] [ 9908:10096] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini gracefully terminated
+[2024-05-10 19:53:36.953] [info   ] [ini_access ] [ 9908:10096] [000000:   0] watch task for C:\Program Files\CCleaner\Data\settings.ini started
+[2024-05-10 19:53:36.968] [info   ] [ini_access ] [ 9908:10096] [000000:   0] watch task for C:\Program Files\CCleaner\Data\usercfg.ini started
+[2024-05-10 19:53:36.993] [info   ] [lic_setting] [ 9908:10096] [000000:   0] ~/ZgWcJnVOY7P7OY/uxlZwK+nX3CT1SyOxv60LaoCQMvn9DxQqIFqhM3ksyi9BEHLuLcLIdLYKYvE6qgprEVMyrD4X1Cz9xrdgei1La1FTMaxsR59mclkhM7m
+[2024-05-10 19:53:36.998] [warning] [Burger     ] [ 9908:10096] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [173] asw::standalone_svc::BurgerReporter::RegisterRPC: Could not get RPC.
+[2024-05-10 19:53:36.998] [error  ] [Burger     ] [ 9908:10096] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [253] asw::standalone_svc::BurgerReporter::BurgerSwitch: Could not read property BURGER_SETTINGS_PANCAKE_HOSTNAME (0x00000003)
+[2024-05-10 19:53:36.998] [warning] [Burger     ] [ 9908:10096] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [256] asw::standalone_svc::BurgerReporter::BurgerSwitch: Analytics (Burger.v4) disabled (hostname: )
+[2024-05-10 19:53:36.998] [error  ] [Burger     ] [ 9908:10096] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [253] asw::standalone_svc::BurgerReporter::BurgerSwitch: Could not read property BURGER_SETTINGS_PANCAKE_HOSTNAME (0x00000003)
+[2024-05-10 19:53:36.998] [warning] [Burger     ] [ 9908:10096] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [256] asw::standalone_svc::BurgerReporter::BurgerSwitch: Analytics (Burger.v4) disabled (hostname: )
+[2024-05-10 19:53:36.998] [warning] [Burger     ] [ 9908:10096] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [173] asw::standalone_svc::BurgerReporter::RegisterRPC: Could not get RPC.
+[2024-05-10 19:53:37.025] [warning] [ini_access ] [ 9908:13952] [000000:   0] C:\Program Files\CCleaner\Setup overlapped IO failed, error: 995.
+[2024-05-10 19:53:37.025] [warning] [ini_access ] [ 9908: 8200] [000000:   0] C:\Program Files\CCleaner\Data overlapped IO failed, error: 995.
+[2024-05-10 19:53:37.025] [warning] [ini_access ] [ 9908:13952] [000000:   0] C:\Program Files\CCleaner\Data overlapped IO failed, error: 995.
+[2024-05-10 19:53:43.562] [info   ] [ini_access ] [ 9908:20216] [000000:   0] watch task for C:\Program Files\CCleaner\Data\burger_client.ini started
+[2024-05-10 19:53:43.641] [info   ] [ini_access ] [ 9908: 2976] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\settings.ini requested
+[2024-05-10 19:53:43.641] [info   ] [ini_access ] [ 9908: 2976] [000000:   0] watch task for C:\Program Files\CCleaner\Data\settings.ini gracefully terminated
+[2024-05-10 19:53:43.641] [info   ] [ini_access ] [ 9908: 2976] [000000:   0] watch task termination for C:\Program Files\CCleaner\Setup\config.def requested
+[2024-05-10 19:53:43.641] [info   ] [ini_access ] [ 9908: 2976] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def gracefully terminated
+[2024-05-10 19:53:43.641] [info   ] [ini_access ] [ 9908: 2976] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\usercfg.ini requested
+[2024-05-10 19:53:43.642] [info   ] [ini_access ] [ 9908: 2976] [000000:   0] watch task for C:\Program Files\CCleaner\Data\usercfg.ini gracefully terminated
+[2024-05-10 19:53:43.642] [info   ] [ini_access ] [ 9908: 2976] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\burger_client.ini requested
+[2024-05-10 19:53:43.642] [info   ] [ini_access ] [ 9908: 2976] [000000:   0] watch task for C:\Program Files\CCleaner\Data\burger_client.ini gracefully terminated
+[2024-05-10 19:53:43.748] [info   ] [log_module ] [ 9908: 2976] [000000:   0] LogModule is going to be destroyed.
+[2024-05-10 19:53:43.748] [info   ] [log_module ] [ 9908: 2976] [000000:   0] =====================================================================================================================
+[2024-05-10 19:54:09.847] [info   ] [settings   ] [19952: 8580] [000000:   0] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2024-05-10 19:54:09.849] [info   ] [ini_access ] [19952: 8580] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def started
+[2024-05-10 19:54:09.849] [info   ] [ini_access ] [19952: 8580] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini started
+[2024-05-10 19:54:09.851] [info   ] [ini_access ] [19952: 8580] [000000:   0] watch task termination for C:\Program Files\CCleaner\usercfg.ini requested
+[2024-05-10 19:54:09.851] [info   ] [ini_access ] [19952: 8580] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini gracefully terminated
+[2024-05-10 19:54:09.851] [info   ] [ini_access ] [19952: 8580] [000000:   0] watch task for C:\Program Files\CCleaner\Data\settings.ini started
+[2024-05-10 19:54:09.862] [info   ] [ini_access ] [19952: 8580] [000000:   0] watch task for C:\Program Files\CCleaner\Data\usercfg.ini started
+[2024-05-10 19:54:09.867] [info   ] [lic_setting] [19952: 8580] [000000:   0] ~rPQzep/eJJTI5aFsrQ5d07imDDOf1CSByOyzPr8fRsqz7l9Qv+9wx8LnqTm6CEDLs7EcZ86VKYTN7qciuxkBxrK5UzO/9Aa3m6ulP78YAca+uBpykt44ycLkqw==
+[2024-05-10 19:54:09.872] [warning] [Burger     ] [19952: 8580] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [173] asw::standalone_svc::BurgerReporter::RegisterRPC: Could not get RPC.
+[2024-05-10 19:54:09.872] [error  ] [Burger     ] [19952: 8580] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [253] asw::standalone_svc::BurgerReporter::BurgerSwitch: Could not read property BURGER_SETTINGS_PANCAKE_HOSTNAME (0x00000003)
+[2024-05-10 19:54:09.872] [warning] [Burger     ] [19952: 8580] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [256] asw::standalone_svc::BurgerReporter::BurgerSwitch: Analytics (Burger.v4) disabled (hostname: )
+[2024-05-10 19:54:09.872] [error  ] [Burger     ] [19952: 8580] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [253] asw::standalone_svc::BurgerReporter::BurgerSwitch: Could not read property BURGER_SETTINGS_PANCAKE_HOSTNAME (0x00000003)
+[2024-05-10 19:54:09.872] [warning] [Burger     ] [19952: 8580] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [256] asw::standalone_svc::BurgerReporter::BurgerSwitch: Analytics (Burger.v4) disabled (hostname: )
+[2024-05-10 19:54:09.872] [warning] [Burger     ] [19952: 8580] [000000:   0] [23.3.4596.0] [BurgerReporter.cpp] [173] asw::standalone_svc::BurgerReporter::RegisterRPC: Could not get RPC.
+[2024-05-10 19:54:09.890] [warning] [ini_access ] [19952: 9952] [000000:   0] C:\Program Files\CCleaner\Data overlapped IO failed, error: 995.
+[2024-05-10 19:54:09.890] [warning] [ini_access ] [19952: 9076] [000000:   0] C:\Program Files\CCleaner\Setup overlapped IO failed, error: 995.
+[2024-05-10 19:54:09.890] [warning] [ini_access ] [19952: 9952] [000000:   0] C:\Program Files\CCleaner\Data overlapped IO failed, error: 995.
+[2024-05-10 19:54:18.146] [info   ] [ini_access ] [19952:15384] [000000:   0] watch task for C:\Program Files\CCleaner\Data\burger_client.ini started
+[2024-05-10 19:54:18.218] [info   ] [ini_access ] [19952:14956] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\settings.ini requested
+[2024-05-10 19:54:18.218] [info   ] [ini_access ] [19952:14956] [000000:   0] watch task for C:\Program Files\CCleaner\Data\settings.ini gracefully terminated
+[2024-05-10 19:54:18.218] [info   ] [ini_access ] [19952:14956] [000000:   0] watch task termination for C:\Program Files\CCleaner\Setup\config.def requested
+[2024-05-10 19:54:18.218] [info   ] [ini_access ] [19952:14956] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def gracefully terminated
+[2024-05-10 19:54:18.218] [info   ] [ini_access ] [19952:14956] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\usercfg.ini requested
+[2024-05-10 19:54:18.218] [info   ] [ini_access ] [19952:14956] [000000:   0] watch task for C:\Program Files\CCleaner\Data\usercfg.ini gracefully terminated
+[2024-05-10 19:54:18.218] [info   ] [ini_access ] [19952:14956] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\burger_client.ini requested
+[2024-05-10 19:54:18.218] [info   ] [ini_access ] [19952:14956] [000000:   0] watch task for C:\Program Files\CCleaner\Data\burger_client.ini gracefully terminated
+[2024-05-10 19:54:18.325] [info   ] [log_module ] [19952:14956] [000000:   0] LogModule is going to be destroyed.
+[2024-05-10 19:54:18.325] [info   ] [log_module ] [19952:14956] [000000:   0] =====================================================================================================================
+[2024-05-10 19:55:28.385] [info   ] [settings   ] [ 1428:17516] [000000:   0] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2024-05-10 19:55:28.386] [info   ] [ini_access ] [ 1428:17516] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def started
+[2024-05-10 19:55:28.386] [info   ] [ini_access ] [ 1428:17516] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini started
+[2024-05-10 19:55:28.387] [info   ] [ini_access ] [ 1428:17516] [000000:   0] watch task termination for C:\Program Files\CCleaner\usercfg.ini requested
+[2024-05-10 19:55:28.387] [info   ] [ini_access ] [ 1428:17516] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini gracefully terminated
+[2024-05-10 19:55:28.388] [info   ] [ini_access ] [ 1428:17516] [000000:   0] watch task for C:\Program Files\CCleaner\Data\settings.ini started
+[2024-05-10 19:55:28.400] [info   ] [ini_access ] [ 1428:17516] [000000:   0] watch task for C:\Program Files\CCleaner\Data\usercfg.ini started
+[2024-05-10 19:55:28.406] [info   ] [lic_setting] [ 1428:17516] [000000:   0] ~qfQzep/eJJTI5aFsrQ5d07imDDOf1CSByOyzPr8fRsqz7l9Qv+9wx8LnqTm6CEDLs7EcZ86VKYTN7qciuxkBxrK5UzO/9Aa3m6ulP78YAca+uBpykt44ycLkqw==
+[2024-05-10 19:55:28.427] [warning] [ini_access ] [ 1428:12704] [000000:   0] C:\Program Files\CCleaner\Setup overlapped IO failed, error: 995.
+[2024-05-10 19:55:28.427] [warning] [ini_access ] [ 1428:16604] [000000:   0] C:\Program Files\CCleaner\Data overlapped IO failed, error: 995.
+[2024-05-10 19:55:28.427] [warning] [ini_access ] [ 1428:12704] [000000:   0] C:\Program Files\CCleaner\Data overlapped IO failed, error: 995.
+[2024-05-10 19:56:28.404] [info   ] [ini_access ] [ 1428: 3992] [000000:   0] watch task for C:\Program Files\CCleaner\Data\burger_client.ini started
+[2024-05-10 20:26:20.206] [info   ] [ini_access ] [ 1428:15176] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\settings.ini requested
+[2024-05-10 20:26:20.206] [info   ] [ini_access ] [ 1428:15176] [000000:   0] watch task for C:\Program Files\CCleaner\Data\settings.ini gracefully terminated
+[2024-05-10 20:26:20.206] [info   ] [ini_access ] [ 1428:15176] [000000:   0] watch task termination for C:\Program Files\CCleaner\Setup\config.def requested
+[2024-05-10 20:26:20.206] [info   ] [ini_access ] [ 1428:15176] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def gracefully terminated
+[2024-05-10 20:26:20.206] [info   ] [ini_access ] [ 1428:15176] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\usercfg.ini requested
+[2024-05-10 20:26:20.206] [info   ] [ini_access ] [ 1428:15176] [000000:   0] watch task for C:\Program Files\CCleaner\Data\usercfg.ini gracefully terminated
+[2024-05-10 20:26:20.206] [info   ] [ini_access ] [ 1428:15176] [000000:   0] watch task termination for C:\Program Files\CCleaner\Data\burger_client.ini requested
+[2024-05-10 20:26:20.206] [info   ] [ini_access ] [ 1428:15176] [000000:   0] watch task for C:\Program Files\CCleaner\Data\burger_client.ini gracefully terminated
+[2024-05-10 20:26:20.316] [info   ] [log_module ] [ 1428:15176] [000000:   0] LogModule is going to be destroyed.
+[2024-05-10 20:26:20.316] [info   ] [log_module ] [ 1428:15176] [000000:   0] =====================================================================================================================
+[2024-05-18 20:39:59.055] [info   ] [settings   ] [15000: 6020] [000000:   0] paths.ini_store configuration is empty, settings ini store folder to asw::instup::GetDataDirectory.
+[2024-05-18 20:39:59.059] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def started
+[2024-05-18 20:39:59.060] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini started
+[2024-05-18 20:39:59.062] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task termination for C:\Program Files\CCleaner\usercfg.ini requested
+[2024-05-18 20:39:59.062] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task for C:\Program Files\CCleaner\usercfg.ini gracefully terminated
+[2024-05-18 20:39:59.062] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task termination for C:\Program Files\CCleaner\Setup\config.def requested
+[2024-05-18 20:39:59.063] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task for C:\Program Files\CCleaner\Setup\config.def gracefully terminated
+[2024-05-18 20:39:59.063] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\settings.ini started
+[2024-05-18 20:39:59.064] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Setup\config.def started
+[2024-05-18 20:39:59.065] [info   ] [ini_access ] [15000: 6020] [000000:   0] watch task for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\usercfg.ini started
+[2024-05-18 20:39:59.073] [info   ] [lic_setting] [15000: 6020] [000000:   0] ~rqIeY9z3I4TE5bUlsAwP1rimCXaOyGqEzuWgJbkeXcSpvRB9xpsJpPWx5i+yBFrBvrsRfZnYPtWP6KUguwpBwK/6HHyRl2qk7seWdv4IXMSu+hxwkN4ricT56C+xBg==
+[2024-05-18 20:39:59.110] [warning] [ini_access ] [15000: 5492] [000000:   0] F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data overlapped IO failed, error: 995.
+[2024-05-18 20:39:59.110] [warning] [ini_access ] [15000: 7600] [000000:   0] F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Setup overlapped IO failed, error: 995.
+[2024-05-18 20:39:59.110] [warning] [ini_access ] [15000: 5492] [000000:   0] F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data overlapped IO failed, error: 995.
+[2024-05-18 20:40:07.091] [info   ] [ini_access ] [15000: 3672] [000000:   0] watch task for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\burger_client.ini started
+[2024-05-18 20:40:07.167] [info   ] [ini_access ] [15000: 4156] [000000:   0] watch task termination for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\settings.ini requested
+[2024-05-18 20:40:07.167] [info   ] [ini_access ] [15000: 4156] [000000:   0] watch task for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\settings.ini gracefully terminated
+[2024-05-18 20:40:07.167] [info   ] [ini_access ] [15000: 4156] [000000:   0] watch task termination for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Setup\config.def requested
+[2024-05-18 20:40:07.167] [info   ] [ini_access ] [15000: 4156] [000000:   0] watch task for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Setup\config.def gracefully terminated
+[2024-05-18 20:40:07.167] [info   ] [ini_access ] [15000: 4156] [000000:   0] watch task termination for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\usercfg.ini requested
+[2024-05-18 20:40:07.167] [info   ] [ini_access ] [15000: 4156] [000000:   0] watch task for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\usercfg.ini gracefully terminated
+[2024-05-18 20:40:07.167] [info   ] [ini_access ] [15000: 4156] [000000:   0] watch task termination for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\burger_client.ini requested
+[2024-05-18 20:40:07.167] [info   ] [ini_access ] [15000: 4156] [000000:   0] watch task for F:\Desctop\Рабочий стол\1xbet\CleanerCS2\CCleaner\Data\burger_client.ini gracefully terminated
+[2024-05-18 20:40:07.281] [info   ] [log_module ] [15000: 4156] [000000:   0] LogModule is going to be destroyed.
+[2024-05-18 20:40:07.281] [info   ] [log_module ] [15000: 4156] [000000:   0] =====================================================================================================================

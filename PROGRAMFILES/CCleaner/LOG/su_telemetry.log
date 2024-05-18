@@ -1,0 +1,2 @@
+﻿[2024-05-18 20:40:06.928] [info   ] [burger     ] [15000: 3952] [0D403E:  25] Sending of Burger record failed.
+[2024-05-18 20:40:06.929] [error  ] [burger     ] [15000: 3952] [0D403E:  25] Server returned error code: 403. It is probably caused by a bug in envelope encoding.

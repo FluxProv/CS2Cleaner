@@ -1,0 +1,10 @@
+12:41:07 [INFO] CCleaner info:
+version: 6.21.10918
+edition: Free
+portable: false
+CCleaner.ini: false
+12:41:07 [INFO] Checking registry key HKEY_CURRENT_USER\SOFTWARE\Piriform\CCleaner\UpdateBackground
+12:41:07 [INFO] Registry value: "0"
+12:41:07 [INFO] Not updating v6.21.10918: Background updates are off.
+12:41:07 [INFO] Not performing update
+12:41:07 [INFO] C:\Program Files\CCleaner\ccleaner_update_helper.exe will be deleted on the next restart.

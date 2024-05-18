@@ -1,0 +1,2 @@
+﻿[2024-05-18 20:40:00.823] [info   ] [sw_updater ] [15000: 4156] [0D403E:  25] asw::su_controller::detail::SUControllerModule::OnScanStateUpdated
+[2024-05-18 20:40:00.824] [info   ] [sw_updater ] [15000: 4156] [0D403E:  25] asw::su_controller::detail::SUControllerModule::OnDetectionsUpdated

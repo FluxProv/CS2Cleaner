@@ -1,0 +1,31 @@
+{
+	"Backups" : [],
+	"DeviceList" : [],
+	"IgnoreList" : [],
+	"OpenTasks" : [],
+	"Status" : 
+	{
+		"foundDevices" : 0,
+		"lastScan" : 0,
+		"outdatedDrivers" : 0,
+		"rebootRequired" : false,
+		"version" : "23.3.4596.0",
+		"vulnerableDrivers" : 0
+	},
+	"computerInfo" : 
+	{
+		"baseboard_manufacturer" : "Micro-Star International Co., Ltd.",
+		"baseboard_product" : "B450M BAZOOKA MAX WIFI (MS-7C87)",
+		"baseboard_version" : "1.0",
+		"bios_manufacturer" : "American Megatrends Inc.",
+		"bios_name" : "1.00",
+		"bios_smbios_version" : "1.00",
+		"bios_version" : "ALASKA - 1072009",
+		"model" : "MS-7C87",
+		"system_family" : "To be filled by O.E.M.",
+		"system_sku" : "To be filled by O.E.M.",
+		"type" : "desktop",
+		"vendor" : "Micro-Star International Co., Ltd."
+	},
+	"hasProblemList" : []
+}

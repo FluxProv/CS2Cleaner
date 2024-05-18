@@ -1,0 +1,9 @@
+﻿[2024-05-10 19:53:22.127] [info   ] [DULib      ] [ 6864:10796] [000000:   0] [23.3.4596.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine
+[2024-05-10 19:53:36.999] [info   ] [DULib      ] [ 9908:10096] [000000:   0] [23.3.4596.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine
+[2024-05-10 19:54:09.872] [info   ] [DULib      ] [19952: 8580] [000000:   0] [23.3.4596.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine
+[2024-05-10 19:55:28.410] [info   ] [DULib      ] [ 1428:17516] [000000:   0] [23.3.4596.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine
+[2024-05-10 20:08:45.254] [info   ] [DULib      ] [ 1428: 7216] [000000:   0] [23.3.4596.0] [DeviceManager.cpp] [1954] DriverUpdater::DeviceManager::DeviceArrivalCallback: Device change callback detected a new device: Microsoft-ПредставительслужбпотоковMicrosoft
+[2024-05-10 20:08:45.255] [info   ] [DULib      ] [ 1428: 7216] [000000:   0] [23.3.4596.0] [DeviceManager.cpp] [1962] DriverUpdater::DeviceManager::DeviceArrivalCallback: Device changed: Microsoft-ПредставительслужбпотоковMicrosoft
+[2024-05-10 20:08:59.041] [info   ] [DULib      ] [ 1428: 7216] [000000:   0] [23.3.4596.0] [DeviceManager.cpp] [2006] DriverUpdater::DeviceManager::DeviceRemovalCallback: Setting device as hidden until next arrival: SW\{96E080C7-143C-11D1-B40F-00A0C9223196}\{3C0D501A-140B-11D1-B40F-00A0C9223196}
+[2024-05-10 20:09:08.636] [error  ] [DUEngLib   ] [ 1428:12704] [000000:   0] [23.3.4596.0] [UpdateChecker.cpp] [94] DriverUpdater::CUpdateChecker::GetLatestDrivers: Backend request failed: Unexpected response 403 Forbidden
+[2024-05-18 20:39:59.081] [info   ] [DULib      ] [15000: 6020] [000000:   0] [23.3.4596.0] [DeviceManager.cpp] [219] DriverUpdater::DeviceManager::Init: Initialize Update Engine

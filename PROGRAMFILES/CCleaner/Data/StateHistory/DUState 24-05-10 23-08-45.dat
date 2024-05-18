@@ -1,0 +1,133 @@
+{
+	"Backups" : [],
+	"DeviceList" : 
+	[
+		{
+			"childrenIds" : [],
+			"class" : "MEDIA",
+			"classGuid" : "{4D36E96C-E325-11CE-BFC1-08002BE10318}",
+			"classIconName" : "Audio",
+			"compatibleIds" : [],
+			"connected" : true,
+			"containerId" : "{00000000-0000-0000-FFFF-FFFFFFFFFFFF}",
+			"devType" : 34,
+			"deviceInst" : 1,
+			"driversList" : 
+			[
+				{
+					"backupDate" : 0,
+					"backupFileName" : "C:\\Program Files\\CCleaner\\Data\\BackupStorage\\Microsoft_\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c \u0441\u043b\u0443\u0436\u0431 \u043f\u043e\u0442\u043e\u043a\u043e\u0432 Microsoft_10.0.22621.1.zip",
+					"crashCounter" : 0,
+					"cveIdentifiers" : [],
+					"description" : "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c \u0441\u043b\u0443\u0436\u0431 \u043f\u043e\u0442\u043e\u043a\u043e\u0432 Microsoft",
+					"downloadJobGUID" : "",
+					"driverDate" : 12795321600,
+					"driverDateFormatted" : "2006-06-21 00:00:00",
+					"driverFiles" : [],
+					"driverKey" : "{4d36e96c-e325-11ce-bfc1-08002be10318}\\0004",
+					"driverPackageId" : "",
+					"driverType" : 3,
+					"driverVersion" : "10.0.22621.1",
+					"fix" : false,
+					"flags" : 1318980,
+					"friendlyName" : "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c \u0441\u043b\u0443\u0436\u0431 \u043f\u043e\u0442\u043e\u043a\u043e\u0432 Microsoft",
+					"hardwareId" : "sw\\{96e080c7-143c-11d1-b40f-00a0c9223196}",
+					"hasProblem" : false,
+					"hidden" : false,
+					"ignored" : false,
+					"inbox" : true,
+					"infDate" : 13296374342,
+					"infDateFormatted" : "2022-05-07 05:19:02",
+					"infFileName" : "C:\\WINDOWS\\INF\\ksfilter.inf",
+					"isDchDriver" : false,
+					"manufacturer" : "Microsoft",
+					"matchingId" : "Microsoft-\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u043b\u0443\u0436\u0431\u043f\u043e\u0442\u043e\u043a\u043e\u0432Microsoft",
+					"packageHash" : "",
+					"packagePathLocal" : "",
+					"packagePortal" : "",
+					"packageUrl" : "",
+					"providerName" : "Microsoft",
+					"rank" : 16711680,
+					"rejectedReason" : 0,
+					"sectionName" : "MSKSSRV",
+					"selectionOrder" : 0,
+					"state" : 0,
+					"storeInf" : "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\ksfilter.inf_amd64_2a40298a49b96445\\ksfilter.inf",
+					"vulnerable" : false
+				}
+			],
+			"functionalData" : 
+			{
+				"childNumber" : 0,
+				"childProblems" : 0,
+				"hasPotentialProblem" : false,
+				"hasProblem" : false,
+				"potentialProblemCode" : 0,
+				"problemCode" : 0,
+				"siblingNumber" : 0,
+				"siblingProblems" : 0
+			},
+			"hardwareIds" : 
+			[
+				"SW\\{96E080C7-143C-11D1-B40F-00A0C9223196}"
+			],
+			"hasProblem" : false,
+			"hash" : "E6C78787A99514F6B7E85C454515F18F0FC7C66F0567E57F756C838AFE5C4560",
+			"hidden" : false,
+			"id" : "Microsoft-\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u043b\u0443\u0436\u0431\u043f\u043e\u0442\u043e\u043a\u043e\u0432Microsoft",
+			"ignored" : false,
+			"installDate" : 13324911439,
+			"installDateFormatted" : "2023-04-02 12:17:19",
+			"installOperationData" : 
+			{
+				"actionPerformed" : 0,
+				"driverId" : "",
+				"installDuration" : 0,
+				"installationFinished" : 0,
+				"pendingVerification" : false,
+				"prevDriverId" : "",
+				"requiredReboot" : false
+			},
+			"installState" : "0X00000000",
+			"instancePath" : "SW\\{96E080C7-143C-11D1-B40F-00A0C9223196}\\{3C0D501A-140B-11D1-B40F-00A0C9223196}",
+			"instances" : 
+			[
+				"SW\\{96E080C7-143C-11D1-B40F-00A0C9223196}\\{3C0D501A-140B-11D1-B40F-00A0C9223196}"
+			],
+			"location" : "",
+			"manufacturer" : "Microsoft",
+			"name" : "\u041f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044c \u0441\u043b\u0443\u0436\u0431 \u043f\u043e\u0442\u043e\u043a\u043e\u0432 Microsoft",
+			"parent" : "ROOT\\SYSTEM\\0000",
+			"problemCode" : 0,
+			"state" : 1,
+			"type" : 2
+		}
+	],
+	"IgnoreList" : [],
+	"OpenTasks" : [],
+	"Status" : 
+	{
+		"foundDevices" : 0,
+		"lastScan" : 0,
+		"outdatedDrivers" : 0,
+		"rebootRequired" : false,
+		"version" : "23.3.4596.0",
+		"vulnerableDrivers" : 0
+	},
+	"computerInfo" : 
+	{
+		"baseboard_manufacturer" : "Micro-Star International Co., Ltd.",
+		"baseboard_product" : "B450M BAZOOKA MAX WIFI (MS-7C87)",
+		"baseboard_version" : "1.0",
+		"bios_manufacturer" : "American Megatrends Inc.",
+		"bios_name" : "1.00",
+		"bios_smbios_version" : "1.00",
+		"bios_version" : "ALASKA - 1072009",
+		"model" : "MS-7C87",
+		"system_family" : "To be filled by O.E.M.",
+		"system_sku" : "To be filled by O.E.M.",
+		"type" : "desktop",
+		"vendor" : "Micro-Star International Co., Ltd."
+	},
+	"hasProblemList" : []
+}
